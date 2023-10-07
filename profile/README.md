@@ -1,12 +1,5 @@
-## Hi there 👋, we are 3B-Group.
+## Hi there 👋, 
 
-<!--
+:yum: :dizzy_face: :neutral_face: We are **3B group** initiated by the love of three AGI researchers, whose names begin with **B**. 
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+:musical_note: We often brainstorm and strive to create beneficial and interesting things for the community.
